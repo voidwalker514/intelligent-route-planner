@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Output files (keep structure, not content)
+outputs/*.txt
+outputs/*.json
+
+# Large generated images (keep README images)
+images/*.png
+
+# Python cache
+*.pyc
+*.pyo
