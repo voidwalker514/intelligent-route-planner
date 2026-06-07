@@ -1,0 +1,71 @@
+{
+  "source": "Mumbai",
+  "destination": "Delhi",
+  "algorithms": {
+    "bfs": {
+      "path": [
+        "Mumbai",
+        "Ahmedabad",
+        "Jaipur",
+        "Delhi"
+      ],
+      "hops": 3
+    },
+    "dfs": {
+      "path": [
+        "Mumbai",
+        "Nashik",
+        "Aurangabad",
+        "Hyderabad",
+        "Bhubaneswar",
+        "Kolkata",
+        "Patna",
+        "Lucknow",
+        "Gwalior",
+        "Agra",
+        "Jaipur",
+        "Delhi"
+      ],
+      "hops": 11
+    },
+    "dijkstra_distance": {
+      "path": [
+        "Mumbai",
+        "Ahmedabad",
+        "Jaipur",
+        "Delhi"
+      ],
+      "total_distance": 1470,
+      "total_time": 1380,
+      "total_cost": 1990,
+      "optimized_by": "distance",
+      "found": true
+    },
+    "dijkstra_time": {
+      "path": [
+        "Mumbai",
+        "Ahmedabad",
+        "Jaipur",
+        "Delhi"
+      ],
+      "total_distance": 1470,
+      "total_time": 1380,
+      "total_cost": 1990,
+      "optimized_by": "time",
+      "found": true
+    },
+    "dijkstra_cost": {
+      "path": [
+        "Mumbai",
+        "Ahmedabad",
+        "Jaipur",
+        "Delhi"
+      ],
+      "total_distance": 1470,
+      "total_time": 1380,
+      "total_cost": 1990,
+      "optimized_by": "cost",
+      "found": true
+    }
+  }
+}

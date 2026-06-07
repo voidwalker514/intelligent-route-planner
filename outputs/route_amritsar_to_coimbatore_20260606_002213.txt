@@ -1,0 +1,18 @@
+=================================================================
+  INTELLIGENT ROUTE PLANNER - ROUTE REPORT
+=================================================================
+  Algorithm   : Dijkstra's (Min Time)
+  Source      : Amritsar
+  Destination : Coimbatore
+  Timestamp   : 2026-06-06 00:22:13
+-----------------------------------------------------------------
+
+  Route Sequence:
+  Amritsar  →  Delhi  →  Jaipur  →  Ahmedabad  →  Surat  →  Pune  →  Goa  →  Bengaluru  →  Mysuru  →  Coimbatore
+
+  Total Distance : 3350 km
+  Total Time     : 52h 0m (3120 min)
+  Total Cost     : INR 4640
+  Optimized By   : time
+
+=================================================================

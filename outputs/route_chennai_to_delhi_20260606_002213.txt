@@ -1,0 +1,18 @@
+=================================================================
+  INTELLIGENT ROUTE PLANNER - ROUTE REPORT
+=================================================================
+  Algorithm   : Dijkstra's (Min Time)
+  Source      : Chennai
+  Destination : Delhi
+  Timestamp   : 2026-06-06 00:22:13
+-----------------------------------------------------------------
+
+  Route Sequence:
+  Chennai  →  Hyderabad  →  Pune  →  Surat  →  Ahmedabad  →  Jaipur  →  Delhi
+
+  Total Distance : 2730 km
+  Total Time     : 42h 30m (2550 min)
+  Total Cost     : INR 3720
+  Optimized By   : time
+
+=================================================================
