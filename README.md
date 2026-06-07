@@ -449,13 +449,7 @@ This project is licensed under the **MIT License** — use it freely for learnin
 
 ---
 
-## 👤 Author
 
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
 
 > ⭐ **Star this repository** if it helped you learn graph algorithms!
 > Built with ❤️ as a DSA portfolio project.
